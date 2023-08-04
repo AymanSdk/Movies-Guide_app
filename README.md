@@ -22,7 +22,7 @@ The Movie Guide App is a web application that allows users to search for movies 
 - HTML
 - CSS
 - JavaScript (ES6+)
-- [Movies Database API](https://www.moviesdatabaseapi.com)
+- [Movies Database API](https://www.omdbapi.com/)
 
 ## Installation
 
@@ -44,7 +44,7 @@ cd Movies-Guide_app
 
 To run the app locally, you need to obtain an API key from the Movies Database API. Follow these steps:
 
-1. Visit [Movies Database API](https://www.moviesdatabaseapi.com) and sign up for an account.
+1. Visit [OMDb API](https://www.omdbapi.com/) and sign up for an account.
 
 2. Once you have your API key, create a new file named `config.js` in the root of the project.
 
@@ -72,7 +72,7 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 
 ## Contact
 
-For any inquiries or questions, feel free to contact me at your-email@example.com.
+For any inquiries or questions, feel free to contact me at ayman.sdk123@outlook.com.
 
 ---
 
