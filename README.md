@@ -1,5 +1,3 @@
-Of course! I'd be happy to help you create a professional README/documentation for your movie guide app. A good README should provide clear and concise instructions on how to use your app, what technologies it utilizes, and any necessary setup steps. Below is a template you can use as a starting point for your documentation:
-
 # Movie Guide App
 
 ![App Screenshot](Movie_appGuide.png)
@@ -50,7 +48,7 @@ To run the app locally, you need to obtain an API key from the Movies Database A
 
 2. Once you have your API key, create a new file named `config.js` in the root of the project.
 
-3. In `config.js`, add the following code:
+3. In `key.js`, add the following code:
 
 ```js
 const API_KEY = 'YOUR_API_KEY_HERE';
@@ -58,7 +56,7 @@ const API_KEY = 'YOUR_API_KEY_HERE';
 
 4. Replace `'YOUR_API_KEY_HERE'` with your actual API key.
 
-5. Save the `config.js` file.
+5. Save the `key.js` file.
 
 ## Usage
 
@@ -71,9 +69,6 @@ const API_KEY = 'YOUR_API_KEY_HERE';
 
 Contributions are welcome! If you find any issues or have suggestions for improvement, please open an issue or submit a pull request to this repository.
 
-## License
-
-[MIT License](LICENSE)
 
 ## Contact
 
